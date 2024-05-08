@@ -1,0 +1,26 @@
+<<<<<<< HEAD
+{
+  "profiles": {
+    "FlowerShopManagement.Core": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:54592;http://localhost:54593"
+    }
+  }
+=======
+{
+  "profiles": {
+    "FlowerShopManagement.Core": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:54592;http://localhost:54593"
+    }
+  }
+>>>>>>> 24db0d200fe76027e4b8f2c691699d480217e22a
+}
